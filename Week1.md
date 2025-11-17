@@ -27,8 +27,8 @@
 
 ## 参考资料 
 
-- [Solidity 官方文档](https://docs.soliditylang.org/)
-- [Foundry 教程](https://book.getfoundry.sh/)
-- [Remix IDE](https://remix.ethereum.org/)
+- [Solidity 官方文档](https://docs.soliditylang.org/), 编写合约的语言
+- [Foundry 教程](https://book.getfoundry.sh/), Foundry 是一个工具集, 包含智能合约的构建/部署/调试等功能
+- [Remix IDE](https://remix.ethereum.org/), Remix 是一个在线 IDE, 能够直接在网页上编写/部署/测试智能合约, 并且可以使用浏览器插件的钱包来签名
 - (欢迎任何同学补充自己学习时用到的资料)
 
