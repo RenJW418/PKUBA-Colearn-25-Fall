@@ -45,10 +45,10 @@ contract HelloWeb3 {
 然后按步骤进行操作，最后查看交易信息
 
 
-![image](https://github.com/henrymartin262/PKUBA-Colearn-25-Fall/blob/main/img//20251122_192540_201dbb50-6a41-43e2-a967-5ea556a69bb2.png)
+![image](https://github.com/henrymartin262/PKUBA-Colearn-25-Fall/blob/main/img/201dbb50-6a41-43e2-a967-5ea556a69bb2.png)
 
 
-![image](https://github.com/henrymartin262/PKUBA-Colearn-25-Fall/blob/main/img//20251122_192548_Snipaste_2025-11-22_18-23-45.png)
+![image](https://github.com/henrymartin262/PKUBA-Colearn-25-Fall/blob/main/img/Snipaste_2025-11-22_18-23-45.png)
 
 #### Part II - 智能合约编写
 
